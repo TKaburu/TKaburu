@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Tracey Kaburu</h1>
 <h3 align="center">A passionate Software Engineer Student</h3>
-|<img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <a href="https://twitter.com/kaburu_tracey" target="blank"><img src="https://img.shields.io/twitter/follow/kaburu_tracey?logo=twitter&style=for-the-badge" alt="kaburu_tracey" /></a> </p>
 
