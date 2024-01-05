@@ -44,11 +44,13 @@
 <h2 align="center">⚡ Stats ⚡</h2> 
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tkaburu&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a> <br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=tkaburu&show_icons=true&rank_icon=github&theme=transparent" /></a>
-  <br/>
-  <br/>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkaburu&size_weight=0.5&count_weight=0.5&theme=transparent" /></a>
+        <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; margin-right: 10px;">
+                <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tkaburu&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a> <br>
+                <a href="https://git.io/streak-stats" ><img src="https://github-readme-stats.vercel.app/api?username=tkaburu&show_icons=true&rank_icon=github&theme=transparent" /></a>
+                <br/>
+                <br/>
+        </div>
+                <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkaburu&size_weight=0.5&count_weight=0.5&theme=transparent" /></a>
 </div>
 
 <br/><br/>
