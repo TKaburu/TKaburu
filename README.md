@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **building ny software skills**
+ 🔭 I’m currently working on **building my software skills**
  
  🌱 I’m currently learning **Python, Django, Javascript**
 
